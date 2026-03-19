@@ -131,3 +131,5 @@ Check:
 - OpenAI Platform billing is enabled
 - the API key belongs to the correct project/account
 - the project has available credits or payment method configured
+
+<img width="1291" height="900" alt="Screenshot 2026-03-19 at 6 31 36 AM" src="https://github.com/user-attachments/assets/c2294489-c221-4cbf-9ff1-5b229c61ccfb" />
