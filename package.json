@@ -1,0 +1,13 @@
+{
+  "name": "resume-chat-backend",
+  "version": "1.0.0",
+  "description": "Minimal Chat with your Resume backend using Node.js, Express, and OpenAI",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "openai": "^5.10.2"
+  }
+}
